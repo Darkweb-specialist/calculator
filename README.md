@@ -7,7 +7,8 @@ How to Run:-
 4)./3.sh
 
 ....And you script will be run
-"UI" looks like this
+"UI" looks like this:-
+(
 Enter a first number
 2
 Enter a operator              ....(+,-,*,/)
@@ -16,3 +17,4 @@ Enter a second number
 2
 Calculaing...                ....(taking 4 second)
 The anwser is 4
+)
